@@ -1,4 +1,4 @@
-# Coffee Machine CLI Programm 
+# Coffee Machine CLI Program 
 *******************************************************
 Done with pure Python (vanilla), no packages
 *******************************************************
