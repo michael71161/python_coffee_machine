@@ -28,7 +28,7 @@ profit = 0
 resources = {
     "water": 600,
     "milk": 400,
-    "coffee": 150,
+    "coffee": 120,
 }
 
 
